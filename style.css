@@ -1,0 +1,54 @@
+#cx_prim{
+    margin: 10px auto;
+    width: 600px;
+    height: 600px;
+    text-align: justify;
+    border: 1px solid rgb(128, 128, 128);
+    font-size: 15px; 
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+.principal{
+    font-weight: bold;
+    font-family: Verdana;
+}
+img{
+    padding-top: 5px;
+    float: right;
+    height: 100px;
+    width: 200px;
+}
+.espacamento{
+    padding: 2px 10px; 
+}
+.espacamento_geral{
+    padding: 2px 4px 10px 10px;
+    background-color: rgb(236, 235, 235);  
+    height: 464px;
+}
+header{
+    padding-top: 2px;   
+}
+.btn{
+    transform: scale(1.0);
+    display: inline-block;
+    padding: 1px 15px;
+    text-decoration: none;
+    border: 1px solid;
+    color: black;
+    background-color: rgb(231, 228, 228);
+}
+.btn:hover{
+    border: 2px solid rgb(13, 147, 209);
+}
+.fechar{
+    float: right;
+}
+.rodape{
+    float: right;
+    margin-top: 12%;
+}
+footer{
+    margin-top: 20%;
+    overflow: hidden;
+}
